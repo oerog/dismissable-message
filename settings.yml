@@ -2,7 +2,7 @@ header-msg:
   type: bool
   default: false
   description:
-    en: 'Change to true to show message below header. Message sets a cookie when dismissed.'
+    en: 'Select to show message below header. Message sets a cookie when dismissed.'
 header-color: 
   type: string
   default: "#282828"
