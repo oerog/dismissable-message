@@ -1,0 +1,32 @@
+$header-msg: true;
+$header-color: #282828;
+$header-bg: #94c9fd;
+.header-message {
+    display:none;
+    display: if($header-msg, block, null);
+}
+#uxm-members-banner {
+    display:none;
+}
+#uxm-new-users-banner {
+    display:none;
+}
+#banner-container{
+    display:none;
+}
+.banner-txt {
+    background-color:$header-bg;
+    color: $header-color;
+    padding: 8px 32px 8px 16px;
+    margin-bottom: 15px;
+}
+.info-dismiss {
+    display: block;
+}
+#banner-close-button {
+    color: $header-color;
+    float: right;
+    top: 0;
+    right: 0;
+    position: relative;
+}
