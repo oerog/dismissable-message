@@ -1,6 +1,6 @@
 header-msg: 
   type: boolean
-  default: No
+  default: 0
   description:
     en: 'Change to Yes to show message below header. Message sets a cookie when dismissed.'
 header-color: 
