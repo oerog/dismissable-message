@@ -10,6 +10,6 @@ header-color:
     en: 'Text color of the message'
 header-bg:
   type: string
-  default: "#282828"
+  default: "#94c9fd"
   description:
     en: 'Background color'
