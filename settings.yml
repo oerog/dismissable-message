@@ -1,6 +1,6 @@
 header-msg: 
   type: string
-  default: "false"
+  default: false
   description:
     en: 'Change to True to show message below header. Message sets a cookie when dismissed.'
 header-color: 
