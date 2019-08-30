@@ -1,6 +1,3 @@
-$header-msg: true;
-$header-color: #282828;
-$header-bg: #94c9fd;
 .header-message {
     display:none;
     display: if($header-msg, block, null);
