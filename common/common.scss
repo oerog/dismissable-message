@@ -1,6 +1,7 @@
-.header-message {
-    display:none;
-    display: if($header-msg, block, null);
+@if $header-msg == "false" {
+  .header-message {
+    display: none !important;
+  }
 }
 #uxm-members-banner {
     display:none;
