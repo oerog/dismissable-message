@@ -1,8 +1,8 @@
 header-msg: 
   type: string
-  default: "#282828"
+  default: "true"
   description:
-    en: ' Change to "False" to not show message below header. Message sets a cookie when dismissed.'
+    en: 'Change to False to not show message below header. Message sets a cookie when dismissed.'
 header-color: 
   type: string
   default: "#282828"
