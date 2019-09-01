@@ -1,23 +1,13 @@
 @if $header-msg == "false" {
-  .header-message {
+  .banner-container {
     display: none !important;
   }
 }
-.header-message {
-    max-width: 600px;
-    margin: auto;
-}
-#uxm-members-banner {
-    display:none;
-}
-#uxm-new-users-banner {
-    display:none;
-}
-#banner-container{
+#banner-message {
     display:none;
 }
 .banner-txt {
-    background-color:$header-bg;
+    background-color:$danger;
     color: $header-color;
     padding: 8px 32px 8px 16px;
     margin-bottom: 15px;
