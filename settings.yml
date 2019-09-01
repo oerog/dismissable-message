@@ -7,9 +7,4 @@ header-color:
   type: string
   default: "#282828"
   description:
-    en: 'Text color of the message'
-header-bg:
-  type: string
-  default: "#94c9fd"
-  description:
-    en: 'Background color'
+    en: 'Text color of the message. Background color is the Danger color from your palette'
