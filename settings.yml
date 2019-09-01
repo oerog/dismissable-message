@@ -1,4 +1,4 @@
-header_msg: 
+header_message: 
   type: bool
   default: false
   description:
