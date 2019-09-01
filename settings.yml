@@ -5,6 +5,6 @@ header-msg:
     en: 'Select to show message below header. Message sets a cookie when dismissed.'
 message-color: 
   type: string
-  default: "#282828"
+  default: "#FFF"
   description:
-    en: 'Text color of the message. Background color is the Danger color from your palette'
+    en: 'Text color of the message. Default is White. The Background color is the Danger color from your palette'
